@@ -4,7 +4,7 @@ title:  "Auburn REU on Smart UAVs"
 date:   2018-06-19 13:23:03 -0500
 categories: masterpost update
 ---
-I'm spending eight weeks of summer at Auburn University in Alabama working at an NSF REU on the topic of smart UAVs. We've been given broad creative and individual freedom to pursue essentially any subtopic within the scope of the program, and as a result Harrison Welch and I have chosen to work on UAV navigation in the absence of GPS.
+I'm spending eight weeks of summer at Auburn University in Alabama working at an NSF REU on the topic of smart UAVs. My team consists of [Harrison Welch][harrison] and myself. We've been given broad creative and individual freedom to pursue essentially any subtopic within the scope of the program, and as a result Harrison Welch and I have chosen to work on UAV navigation in the absence of GPS.
 
 What this means is that we have been trying to develop a system to navigate a blind, deaf, and dumb drone with as few caveats as possible while being as precise as possible. The method we've decided on is a delightful callback to my general fascination with the old and dusty: astronavigation.
 
@@ -14,5 +14,11 @@ The program being developed currently depends on two main sources: the [PyEphem]
 
 This post will slowly grow as I attach progress reports, papers, presentations, and resources related to the work. For now, however, I will end this simply: Carthago delenda est.
 
-[astrometry]: https://astrometry.net
-[pyephem]: https://rhodesmill.org/pyephem
+6/24 Edit: Now including links to my project partner, our working [paper's][paper] [files][biblio], and our [presentation][pres].
+
+[astrometry]: 	https://astrometry.net
+[pyephem]: 		https://rhodesmill.org/pyephem
+[harrison]: 	https://harrisonwelch.github.io
+[paper]:		https://akreulach.github.io/_site/assets/files/main.tex
+[biblio]:		https://akreulach.github.io/_site/assets/files/bib1.bib
+[pres]: 		https://akreulach.github.io/_site/assets/files/midterm.pptx
