@@ -19,6 +19,6 @@ This post will slowly grow as I attach progress reports, papers, presentations, 
 [astrometry]: 	https://astrometry.net
 [pyephem]: 		https://rhodesmill.org/pyephem
 [harrison]: 	https://harrisonwelch.github.io
-[paper]:		https://akreulach.github.io/_site/assets/files/main.tex
-[biblio]:		https://akreulach.github.io/_site/assets/files/bib1.bib
-[pres]: 		https://akreulach.github.io/_site/assets/files/midterm.pptx
+[paper]:		https://akreulach.github.io/files/main.tex
+[biblio]:		https://akreulach.github.io/files/bib1.bib
+[pres]: 		https://akreulach.github.io/files/midterm.pptx
