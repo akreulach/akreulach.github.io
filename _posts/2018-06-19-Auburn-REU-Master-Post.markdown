@@ -14,10 +14,13 @@ The program being developed currently depends on two main sources: the [PyEphem]
 
 This post will slowly grow as I attach progress reports, papers, presentations, and resources related to the work. For now, however, I will end this simply: Carthago delenda est.
 
-6/24 Edit: Now including links to my project partner, our working [paper's][paper], and our [presentation][pres].
+6/24 Edit: Now including links to my project partner, our working [paper][paper], and our [presentation][pres].
+
+6/25 Edit: Extremely unsorted collection of [links][lnks] to references in the paper.
 
 [astrometry]: 	https://astrometry.net
 [pyephem]: 		https://rhodesmill.org/pyephem
 [harrison]: 	https://harrisonwelch.github.io
 [paper]:		https://akreulach.github.io/files/AUBPaper.pdf
 [pres]: 		https://akreulach.github.io/files/midterm.pptx
+[lnks]:			https://akreulach.github.io/files/links.txt

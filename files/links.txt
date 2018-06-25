@@ -1,0 +1,12 @@
+https://gizmodo.com/jamming-gps-signals-is-illegal-dangerous-cheap-and-e-1796778955
+https://www.spiedigitallibrary.org/conference-proceedings-of-spie/6561/65610C/Non-GPS-navigation-with-the-personal-dead-reckoning-system/10.1117/12.718691.full?SSO=1
+https://www.semanticscholar.org/paper/LIDAR%2FMEMS-IMU-integrated-navigation-(SLAM)-method-Li-Liu/4e6da76a61c69a4fb3c713ce6ca960eb652e0454
+https://www.southsbest.org/files/acad_depts/csse/csse_technical_reports/csse14-03.pdf
+http://people.csail.mit.edu/lpk/mars/temizer_2001/Optical_Flow/
+https://ieeexplore.ieee.org/document/4518859/
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7808987
+https://www.spiedigitallibrary.org/conference-proceedings-of-spie/2466/1/Panoramic-annular-lens-attitude-determination-system-PALADS/10.1117/12.211498.full?SSO=1
+https://arxiv.org/abs/0910.2233
+https://ieeexplore.ieee.org/document/7943569/
+https://dl.acm.org/citation.cfm?id=3098207
+https://www.nextgov.com/cio-briefing/2013/09/gps-jammers-could-knock-out-signals-medium-sized-city/70582/
