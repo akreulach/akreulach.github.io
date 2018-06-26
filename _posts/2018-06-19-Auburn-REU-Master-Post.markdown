@@ -4,6 +4,9 @@ title:  "Auburn REU on Smart UAVs"
 date:   2018-06-19 13:23:03 -0500
 categories: masterpost update
 ---
+
+![Auburn Samford Hall]({{ "/files/SamfordHall.jpg" | absolute_url }})
+
 I'm spending eight weeks of summer at Auburn University in Alabama working at an NSF REU on the topic of smart UAVs. My team consists of [Harrison Welch][harrison] and myself. We've been given broad creative and individual freedom to pursue essentially any subtopic within the scope of the program, and as a result Harrison Welch and I have chosen to work on UAV navigation in the absence of GPS.
 
 What this means is that we have been trying to develop a system to navigate a blind, deaf, and dumb drone with as few caveats as possible while being as precise as possible. The method we've decided on is a delightful callback to my general fascination with the old and dusty: astronavigation.
