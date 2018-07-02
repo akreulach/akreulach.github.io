@@ -21,9 +21,12 @@ This post will slowly grow as I attach progress reports, papers, presentations, 
 
 6/25 Edit: Extremely unsorted collection of [links][lnks] to references in the paper.
 
+7/01 Edit: We've created our first batch of [star photos][photos]. Still to be analyzed, results to come.
+
 [astrometry]: 	https://astrometry.net
 [pyephem]: 		https://rhodesmill.org/pyephem
 [harrison]: 	https://harrisonwelch.github.io
 [paper]:		https://akreulach.github.io/files/AUBPaper.pdf
 [pres]: 		https://akreulach.github.io/files/midterm.pptx
 [lnks]:			https://akreulach.github.io/files/links.txt
+[photos]:		https://akreulach.github.io/files/star_photos.zip
