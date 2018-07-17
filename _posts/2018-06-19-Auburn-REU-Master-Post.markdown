@@ -15,13 +15,13 @@ Our plan is to develop a system that turns many aspects of general drone design 
 
 The program being developed currently depends on two main sources: the [PyEphem][pyephem] Python library and [Astrometry.net's][astrometry] offline application.
 
-This post will slowly grow as I attach progress reports, papers, presentations, and resources related to the work. For now, however, I will end this simply: Carthago delenda est.
-
-6/24 Edit: Now including links to my project partner, our working [paper][paper], and our [presentation][pres].
+This post will slowly grow as I attach progress reports, [papers][paper], [presentations][pres], the [poster][pstr], and resources related to the work. For now, however, I will end this simply: Carthago delenda est.
 
 6/25 Edit: Extremely unsorted collection of [links][lnks] to references in the paper.
 
 7/01 Edit: We've created our first batch of [star photos][photos]. Still to be analyzed, results to come.
+
+7/16 Edit: On the final stretch, results have come in and the analysis has been completed. The next few days will be posting updates to the paper and presentation, plus a poster. Everything will be in the penultimate form by the end of this week.
 
 [astrometry]: 	https://astrometry.net
 [pyephem]: 		https://rhodesmill.org/pyephem
@@ -30,3 +30,4 @@ This post will slowly grow as I attach progress reports, papers, presentations, 
 [pres]: 		https://akreulach.github.io/files/midterm.pptx
 [lnks]:			https://akreulach.github.io/files/links.txt
 [photos]:		https://akreulach.github.io/files/star_photos.zip
+[pstr]:			https://akreulach.github.io/files/finalPoster.pdf
