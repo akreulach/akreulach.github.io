@@ -13,21 +13,21 @@ What this means is that we have been trying to develop a system to navigate a bl
 
 Our plan is to develop a system that turns many aspects of general drone design on their heads. The camera will be mounted above the drone and facing the sky; and rather than the usual high-tech lasers and sonar approach to problems, we will be taking a picture and doing chapters worth of mathematics. There's something a little romantic about it.
 
-The program being developed currently depends on two main sources: the [PyEphem][pyephem] Python library and [Astrometry.net's][astrometry] offline application.
+The program being developed currently depends on one main source: [Astrometry.net][astrometry]. Astrometry.net is a public, open-source website hosting a program that analyzes starfield images and finds a host of useful metadata without any outside information. It's a general solution to the 'lost in space' problem.
 
-This post will slowly grow as I attach progress reports, [papers][paper], [presentations][pres], the [poster][pstr], and resources related to the work. For now, however, I will end this simply: Carthago delenda est.
+We've used this information to develop a completely novel approach to celestial navigation that we're calling Zenith Image Analysis.
+
+Essentially, instead of finding the angle of the observer to a set of reference stars like in traditional astronavigation, we're using mathematics to determine the celestial coordinates of the observer's zenith, or the point directly overhead, and using various facts of geometry to convert that into latitude and longitude.
+
+Results are promising, being able to penetrate light cloud cover and function even under slight lunar light pollution.
+
+For more information, I've attached the [paper][paper], [presentation][pres], and [poster][pstr].
 
 6/25 Edit: Extremely unsorted collection of [links][lnks] to references in the paper.
 
-7/01 Edit: We've created our first batch of [star photos][photos]. Still to be analyzed, results to come.
-
-7/16 Edit: On the final stretch, results have come in and the analysis has been completed. The next few days will be posting updates to the paper and presentation, plus a poster. Everything will be in the penultimate form by the end of this week.
-
 [astrometry]: 	https://astrometry.net
-[pyephem]: 		https://rhodesmill.org/pyephem
 [harrison]: 	https://harrisonwelch.github.io
 [paper]:		https://akreulach.github.io/files/AUBPaper.pdf
-[pres]: 		https://akreulach.github.io/files/midterm.pptx
+[pres]: 		https://akreulach.github.io/files/FinalPowerpoint.pptx
 [lnks]:			https://akreulach.github.io/files/links.txt
-[photos]:		https://akreulach.github.io/files/star_photos.zip
 [pstr]:			https://akreulach.github.io/files/finalPoster.pdf
