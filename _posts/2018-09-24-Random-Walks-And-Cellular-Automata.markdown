@@ -19,7 +19,7 @@ But, despite the stunning results one can achieve with a random walk it doesn't 
 
 This image is an example output of a function I wrote to generate cave terrain. Note that the characters are ASCII monocode, so their width is even but they aren't proper squares. I say this to explain the tall and slim look of the caves.
 
-The function depends on an old but still thoroughly interesting concept called cellular automata(CA). The basic idea here is to create a landscape of 'cells' in one of two states, and a set of rules that define the state of a cell in terms of its neighboring cells' states. For example, the CA that creates my caves counts the number of #'s around the cell of interest and if it's at least 7 then it returns a floor(.) and if there are fewer than seven walls(#s) but at least 3 then it returns a wall. This code is based on a [tutorial][ttrl] I found online.
+The function depends on an old but still thoroughly interesting concept called cellular automata(CA). The basic idea here is to create a landscape of 'cells' in one of two states, and a set of rules that define the state of a cell in terms of its neighboring cells' states. For example, the CA that creates my caves counts the number of #'s around the cell of interest and if it's at least 7 then it returns a floor(.) and if there are fewer than seven but at least three walls(#) then it returns a wall. This code is based on a [tutorial][ttrl] I found online.
 
 I'm planning to do a deep dive into this topic for the next few weeks under the guidance of Dr. Patitz in hopes of finding a project for this year. In any case, I absolutely love these little parallel computers and the surprising emergent complexity they offer.
 
