@@ -9,13 +9,13 @@ As my junior year is starting to spool up I've started to think about what my ne
 
 I've made a few toy projects that demonstrate the sort of basic beauty of these concepts. I included a sample of my random walk simulation below.
 
-![Random Walk Visualization]({{ "/files/RandomWalk.png" | absolute_url }})
+![Random Walk Visualization]({{ "/files/RandomWalk.PNG" | absolute_url }})
 
 Random walks are an extremely simple but fascinating and appealing concept for casual mathematics. The idea is simple: create a pointer, then at each time step move the pointer a set distance in a random direction and record where it steps. My code is a bit crude since it doesn't prevent the pointer doubling back on itself, but it creates very nice cloudlike patterns. I've used a few choice output patterns as continents in my fantasy cartography projects.
 
 But, despite the stunning results one can achieve with a random walk it doesn't quite have the properties I am most interested in. Specifically, universality and elements of order in the chaos. Fortunately, my next example does.
 
-![Sample ASCII Cave]({{ "/files/CellularCave.png" | absolute_url }})
+![Sample ASCII Cave]({{ "/files/CellularCave.PNG" | absolute_url }})
 
 This image is an example output of a function I wrote to generate cave terrain. Note that the characters are ASCII monocode, so their width is even but they aren't proper squares. I say this to explain the tall and slim look of the caves.
 
