@@ -24,3 +24,5 @@ The function depends on an old but still thoroughly interesting concept called c
 I'm planning to do a deep dive into this topic for the next few weeks under the guidance of Dr. Patitz in hopes of finding a project for this year. In any case, I absolutely love these little parallel computers and the surprising emergent complexity they offer.
 
 More to come soon.
+
+[ttrl]:		https://gamedevelopment.tutsplus.com/tutorials/generate-random-cave-levels-using-cellular-automata--gamedev-9664
